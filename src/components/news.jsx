@@ -53,15 +53,7 @@ useEffect(()=> {
 
              
                 </div>
-                
-
-                
-{/* description
-author
-url
-urlToImage
-publishedAt */}
-
+            
                 </div>
         ))}
         </div>
